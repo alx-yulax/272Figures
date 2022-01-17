@@ -63,7 +63,6 @@ public:
         std::cout << "Square: " << square << "  circumscribing rectangle: " << circumscribingRectangle << "  color: "
                   << ShowColor() << std::endl;
     }
-
 };
 
 class Circle : public Figure {
